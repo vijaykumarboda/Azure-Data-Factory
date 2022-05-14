@@ -1,5 +1,0 @@
-SELECT
-  *
-FROM
-  database_name.INFORMATION_SCHEMA.TABLES
-WHERE table_type = 'BASE TABLE'
